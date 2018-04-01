@@ -10,3 +10,8 @@
 - Reading Files
 - Exceptions
 - Modules
+
+## Part 2:
+- String Operations
+- String Formatting
+- Regular Expressions

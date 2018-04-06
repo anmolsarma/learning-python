@@ -15,3 +15,13 @@
 - String Operations
 - String Formatting
 - Regular Expressions
+
+## Part 3:
+ - os
+ - os.path
+ - glob
+ - shutil
+ - platform
+ - sys
+ - subprocess
+ - psutil
